@@ -98,7 +98,7 @@ class Tg(pygame.sprite.Sprite):
         
     def update(self):
         self.rect.move_ip(0, self.speed)
-        if self.rect.bottom < 0:
+        if self.rect.bottom > SCREEN_HEIGHT:
             self.kill()
 
     def suicide(self):
