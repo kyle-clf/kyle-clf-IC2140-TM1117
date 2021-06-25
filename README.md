@@ -4,4 +4,4 @@ TM1117 Advanced System Applications and Practice for Internet Multimedia
 
 Training: Introduction to Game Development with Python
 
-Date: 24-25 June 20221
+Date: 24-25 June 2021
